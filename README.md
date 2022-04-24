@@ -4,6 +4,8 @@ This repository is where I can try out and test new languages and technologies. 
 
 [Software Demo Video](https://youtu.be/6ljfzIOdGr4)
 
+[Github Repository](https://github.com/Skhoooler/hello-world)
+
 # Development Environment
 
 For this repository, I used 64-bit Python 3.10.1 in Visual Studio Code.
